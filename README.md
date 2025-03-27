@@ -11,10 +11,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![productMobile](https://github.com/user-attachments/assets/ef36ae8e-e5a0-46b3-be79-7e08dfd8e55d)
+
+![ProductDesktop](https://github.com/user-attachments/assets/14d5a9dd-9978-40d1-a9d5-b61603ad61fe)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Dinma-Faith/product-preview-card-component-main/tree/develop)
 
 ## My process
 
@@ -45,7 +44,7 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-- I learnt the use of <picture> element to provide ways to include multiple image src with associated media queries for different devices.
+- I learnt 'the use of a picture-tag' element to provide ways to include multiple image sources with associated media queries for different devices.
 
 
 ```html
@@ -53,13 +52,14 @@ Users should be able to:
   <source media="(...)" srcset="..." />
     <img src="..." alt="..." />
 </picture>
+...html
 
 ### Useful resources
 
-- [Example resource 1](https://web.dev/learn/design/picture-element) - This helped me to display different images on different screen sizes.
-
+- [Web.dev](https://web.dev/learn/design/picture-element) - This helped me to display different images on different screen sizes.
+....'
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Dinma-Faith](https://www.frontendmentor.io/profile/Dinma-Faith)
+- Twitter - [@p_phayte](https://x.com/p_phayte)
