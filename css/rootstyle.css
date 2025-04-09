@@ -1,0 +1,14 @@
+:root {
+    --bg-cream-color: hsl(30, 38%, 92%);
+    --white-color: hsl(0, 0%, 100%);
+    --black-color: hsl(212, 21%, 14%);
+    --grey-txt-color: hsl(228, 12%, 48%);
+    --green-light-color: hsl(158, 36%, 37%);
+    --grn-drk-color: hsl(158, 42%, 18%);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
